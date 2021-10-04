@@ -1,0 +1,2 @@
+# GitSubmodulesParent
+Testing submodules
