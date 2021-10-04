@@ -4,7 +4,11 @@ Use git submodules as a way of sharing files between projects.
 ## Setup
 
 add submodule with 
-``` git submodule add https://github.com/TimAndreJacobsen/GitSubmodulesChild.git ```
+```cli
+git submodule add https://github.com/TimAndreJacobsen/GitSubmodulesChild.git
+```
 
 update submodule with
-``` git submodule update --remote --merge  ```
+```cli
+git submodule update --remote --merge 
+```
